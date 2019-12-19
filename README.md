@@ -9,3 +9,4 @@ Lista de trabajos Sistemas de Representación Avanzada
 * [GRID](https://martaalfonsopozo.github.io/GRID/) 
 * [Mondrian](https://martaalfonsopozo.github.io/Mondrian/) 
 * [Minimalissimo](https://martaalfonsopozo.github.io/Minimalissimo/)
+* [Imagen Troceada]()
